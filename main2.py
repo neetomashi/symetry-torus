@@ -101,9 +101,8 @@ for axis_point, axis_slope in axis:
             print("Axis point:", axis_point, "Axis slope:", axis_slope)
             break  # Stop iterating through other potential axes
         
-        # Now you can perform further analysis on these opposite points
-        # to determine if the axis is indeed a symmetry axis
-        # You can calculate distances, angles, etc. to verify symmetry
+#all the points have an opposite point compare to the  axis that matches with a point within coordinate making this point their symetrical
+#one important thing is that the treshhold might cause problem
 
 
 
